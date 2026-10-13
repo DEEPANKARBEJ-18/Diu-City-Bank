@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Diu City Bank
 
 Bank management system with a React frontend, Node.js REST API, and MySQL.
@@ -47,3 +48,7 @@ npm run dev
 | GET | `/api/transactions` | Recent transactions |
 | POST | `/api/transactions/transfer` | Fund transfer |
 | GET | `/api/dashboard/stats` | Dashboard totals |
+=======
+# Diu-City-Bank
+A digital banking application for Diu City Bank, designed to provide a secure, user-friendly, and efficient banking experience with modern features for managing banking services.
+>>>>>>> 6da60298e376aed590e4ae65249570369bd69d7b
